@@ -1,8 +1,8 @@
-# src/Blogger/BlogBundle/Resources/config/routing.yml
-blogger_blog_homepage: # <- The name of the route, referenced in application
-    path: /hello/{name} # <- The path that is matched {denotes parameter}
-    defaults: { _controller: BloggerBlogBundle:Default:index }
-    # The controller and action that is executed
-    # In this case the controller action DefaultController::indexAction
-    # from the BloggerBlogBundle bundle
+## src/Blogger/BlogBundle/Resources/config/routing.yml
+#blogger_blog_homepage: # <- The name of the route, referenced in application
+#    path: /hello/{name} # <- The path that is matched {denotes parameter}
+#    defaults: { _controller: BloggerBlogBundle:Default:index }
+#    # The controller and action that is executed
+#    # In this case the controller action DefaultController::indexAction
+#    # from the BloggerBlogBundle bundle
 
