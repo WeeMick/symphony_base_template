@@ -13,6 +13,14 @@
       <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="585bcefd-9f59-49f6-974e-bec048d256e2" />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
@@ -36,10 +44,8 @@
       <path value="$PROJECT_DIR$/vendor/psr/link" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
       <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
-      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
       <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
       <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
-      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
@@ -57,15 +63,9 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
       <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
       <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
-      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iqJivklg9FGHUyRiVftpZRE8nF" />
@@ -74,8 +74,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -87,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602629321198</updated>
-      <workItem from="1602629322545" duration="1911000" />
+      <workItem from="1602629322545" duration="6305000" />
     </task>
     <servers />
   </component>
@@ -95,6 +97,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="705" y="-736" key="#Notifications" timestamp="1602634454060">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="705" y="-736" key="#Notifications/0.0.1536.824/1920.-781.1920.1040/-1920.-776.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602634454060" />
     <state x="736" y="-678" width="447" height="265" key="ComposerInitDialogKey" timestamp="1602629378822">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
