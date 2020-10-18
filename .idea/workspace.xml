@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be7c5f1d-b084-41f9-b022-c9272b56d171" name="Default Changelist" comment="" />
+    <list default="true" id="be7c5f1d-b084-41f9-b022-c9272b56d171" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/about.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="585bcefd-9f59-49f6-974e-bec048d256e2" />
@@ -20,6 +44,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -66,6 +93,8 @@
       <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
       <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
       <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/kriswallsmith/assetic" />
+      <path value="$PROJECT_DIR$/vendor/symfony/assetic-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iqJivklg9FGHUyRiVftpZRE8nF" />
@@ -89,18 +118,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602629321198</updated>
-      <workItem from="1602629322545" duration="6305000" />
+      <workItem from="1602629322545" duration="7257000" />
+      <workItem from="1603042966747" duration="2378000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="705" y="-736" key="#Notifications" timestamp="1602634454060">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="705" y="-736" key="#Notifications/0.0.1536.824/1920.-781.1920.1040/-1920.-776.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602634454060" />
+    <state x="414" y="-905" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603043066783">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="414" y="-905" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-781.1920.1040/-1920.-776.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603043066783" />
     <state x="736" y="-678" width="447" height="265" key="ComposerInitDialogKey" timestamp="1602629378822">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>

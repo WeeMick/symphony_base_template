@@ -6,3 +6,8 @@
 #    # In this case the controller action DefaultController::indexAction
 #    # from the BloggerBlogBundle bundle
 
+blogger_about:
+  path: /about
+  defaults: { _controller: BloggerBlogBundle:Page:about }
+  requirements:
+    _method: GET
