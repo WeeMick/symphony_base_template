@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be7c5f1d-b084-41f9-b022-c9272b56d171" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/about.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602629321198</updated>
       <workItem from="1602629322545" duration="7257000" />
-      <workItem from="1603042966747" duration="2378000" />
+      <workItem from="1603042966747" duration="6616000" />
     </task>
     <servers />
   </component>
