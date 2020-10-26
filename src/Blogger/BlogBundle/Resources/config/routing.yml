@@ -22,3 +22,10 @@ blogger_hello:
   defaults: { _controller: BloggerBlogBundle:Page:hello }
   requirements:
     _method: GET
+
+blogger_number:
+  path: /hello/{number}
+  defaults: { _controller: BloggerBlogBundle:Page:number }
+  requirements:
+    _method: GET
+    number: '\d'

@@ -19,4 +19,10 @@ class PageController extends Controller
     {
         return $this->render('BloggerBlogBundle:Page:hello.html.twig');
     }
+
+    public function numberAction($number)
+    {
+        return $this->render('BloggerBlogBundle:Page:number.html.twig',
+            array('number' => $number));
+    }
 }
