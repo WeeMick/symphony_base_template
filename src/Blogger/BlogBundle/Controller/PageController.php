@@ -14,4 +14,9 @@ class PageController extends Controller
     {
         return $this->render('BloggerBlogBundle:Page:about.html.twig');
     }
+
+    public function helloAction()
+    {
+        return $this->render('BloggerBlogBundle:Page:hello.html.twig');
+    }
 }

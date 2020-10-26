@@ -5,6 +5,11 @@
 #    # The controller and action that is executed
 #    # In this case the controller action DefaultController::indexAction
 #    # from the BloggerBlogBundle bundle
+blogger_index:
+  path: /
+  defaults: { _controller: BloggerBlogBundle:Page:index }
+  requirements:
+    _method: GET
 
 blogger_about:
   path: /about
@@ -12,8 +17,8 @@ blogger_about:
   requirements:
     _method: GET
 
-blogger_index:
-  path: /
-  defaults: { _controller: BloggerBlogBundle:Page:index }
+blogger_hello:
+  path: /hello/you
+  defaults: { _controller: BloggerBlogBundle:Page:hello }
   requirements:
     _method: GET
