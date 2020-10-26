@@ -22,7 +22,6 @@
     <list default="true" id="be7c5f1d-b084-41f9-b022-c9272b56d171" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602629321198</updated>
       <workItem from="1602629322545" duration="7257000" />
-      <workItem from="1603042966747" duration="6616000" />
+      <workItem from="1603042966747" duration="8254000" />
+      <workItem from="1603671875142" duration="456000" />
     </task>
     <servers />
   </component>
@@ -134,6 +134,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="705" y="-736" key="#Notifications" timestamp="1602634454060">
