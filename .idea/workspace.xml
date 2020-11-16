@@ -20,17 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be7c5f1d-b084-41f9-b022-c9272b56d171" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/doctrine/User.orm.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/AppKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/AppKernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/routing.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/config/security.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/security.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.phar" beforeDir="false" afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,10 +106,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Blogger/BlogBundle" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krazy\OneDrive - University of Salford\Final Year\Modules\AWD\symblog\src\Blogger\BlogBundle" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -135,7 +136,15 @@
       <workItem from="1603882200853" duration="1168000" />
       <workItem from="1603902527660" duration="1673000" />
       <workItem from="1604309420759" duration="2280000" />
-      <workItem from="1604354665008" duration="3413000" />
+      <workItem from="1604354665008" duration="4714000" />
+      <workItem from="1604364206428" duration="27000" />
+      <workItem from="1604366112380" duration="715000" />
+      <workItem from="1604366946002" duration="360000" />
+      <workItem from="1604955646901" duration="2978000" />
+      <workItem from="1604961562349" duration="734000" />
+      <workItem from="1604970119479" duration="1638000" />
+      <workItem from="1605291265717" duration="260000" />
+      <workItem from="1605518966392" duration="3978000" />
     </task>
     <servers />
   </component>
@@ -171,10 +180,13 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="736" y="-678" width="447" height="265" key="ComposerInitDialogKey/0.0.1536.824/1920.-781.1920.1040/-1920.-776.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1602629378822" />
-    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1603890106782">
+    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1605291523216">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
+    <state x="2660" y="-506" key="FileChooserDialogImpl/0.0.1536.824/-1680.-776.1680.1010/1920.-781.1920.1040/0.-1080.1920.1040@1920.-781.1920.1040" timestamp="1604958243683" />
     <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1536.824/-1920.-776.1920.1040/1920.-781.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603890106782" />
+    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1536.824/1920.-781.1920.1040/-1680.-776.1680.1010/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1605291523216" />
+    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1536.824/1920.-781.1920.1040/0.-1080.1920.1040/-1680.-776.1680.1010@0.-1080.1920.1040" timestamp="1604962295291" />
     <state x="574" y="-837" key="NewPhpClassDialog" timestamp="1604361017499">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
