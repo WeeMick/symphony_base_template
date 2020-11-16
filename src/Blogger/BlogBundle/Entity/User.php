@@ -1,10 +1,14 @@
 <?php
 
-namespace AppBundle\Entity;
+namespace Blogger\BlogBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use FOS\UserBundle\Model\User as BaseUser;
 
+/**
+ * @ORM\Entity
+ * @ORM\Table(name="fos_user")
+ */
 
 class User extends BaseUser
 {

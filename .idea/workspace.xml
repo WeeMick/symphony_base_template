@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be7c5f1d-b084-41f9-b022-c9272b56d171" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symblog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/doctrine/User.orm.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/AppKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/AppKernel.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/routing.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/security.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/security.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.phar" beforeDir="false" afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blogger/BlogBundle/Entity/User.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +110,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krazy\OneDrive - University of Salford\Final Year\Modules\AWD\symblog\src\Blogger\BlogBundle" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -183,10 +183,11 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="419" y="-293" key="run.anything.popup/0.0.1536.824/-1920.-776.1920.1040/1920.-781.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1603882676486" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1604361857454">
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1605529832131">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.-781.1920.1040/-1680.-776.1680.1010/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1604361857454" />
     <state x="2543" y="-556" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.-781.1920.1040/-1680.-776.1680.1010/0.-1080.1920.1040@1920.-781.1920.1040" timestamp="1603902552064" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.-781.1920.1040/0.-1080.1920.1040/-1680.-776.1680.1010@0.-1080.1920.1040" timestamp="1605529832131" />
   </component>
 </project>
